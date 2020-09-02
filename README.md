@@ -12,7 +12,7 @@
 - :game_die: I love board games, gard games, video games and RPG!
 
 ## Currently, my code sessions are fueled with
-[![Spotify]<img src="https://novatorem.otaviokr.vercel.app/api/spotify" alt="otaviokr Spotify Playing" width=350 />](https://open.spotify.com/user/12166119813)
+[<img src="https://novatorem.otaviokr.vercel.app/api/spotify" alt="otaviokr Spotify Playing" width=350 />](https://open.spotify.com/user/12166119813)
 
 ### Don't be shy, come over and say hi!:
 
@@ -25,31 +25,31 @@
 
 ### Languages
 
-<img alt="Go Language" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img alt="Perl" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/perl.svg" />
-<img alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+[<img alt="Go Language" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />][golang]
+[<img alt="Perl" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/perl.svg" />][perl]
+[<img alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
 
 ### Systems and Frameworks
-<img alt="IBM" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ibm.svg" />
-<img alt="Red Hat Enterprise Linux" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />
-<img alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
-<img alt="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img alt="Kubernetes" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-<img alt="Red Hat OpenShift" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhatopenshift.svg" />
+[<img alt="IBM" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ibm.svg" />][ibm]
+[<img alt="Red Hat Enterprise Linux" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />][redhat]
+[<img alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />][bash]
+[<img alt="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+[<img alt="Kubernetes" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
+[<img alt="Red Hat OpenShift" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhatopenshift.svg" />][openshift]
 
 ### Tools
-<img alt="Vim" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
-<img alt="Postman" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
-<img alt="Swagger" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />
-<img alt="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img alt="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-<img alt="Oracle" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" />
-<img alt="Jenkins" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-<img alt="Ansible" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />
+[<img alt="Vim" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vim]
+[<img alt="Postman" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
+[<img alt="Swagger" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />][swagger]
+[<img alt="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
+[<img alt="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][mongodb]
+[<img alt="Oracle" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" />][oracle]
+[<img alt="Jenkins" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
+[<img alt="Ansible" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
 
 ### Where labour and leisure collides
-<img alt="Arduino" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
-<img alt="Raspberry Pi" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />
+[<img alt="Arduino" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />][arduino]
+[<img alt="Raspberry Pi" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />][reapberrypi]
 
 <br />
 <br />
@@ -74,3 +74,23 @@
 [youtube]: https://youtube.com/otaviokr
 [instagram]: https://instagram.com/otaviokr
 [linkedin]: https://linkedin.com/in/otaviokr
+
+[golang]: https://golang.org
+[perl]: https://perl.org
+[java]: https://java.com
+[ibm]: https://ibm.com
+[redhat]: https://redhat.com
+[bash]: https://gnu.org/software/bash
+[docker]: https://docker.com
+[kubernetes]: https://kubernetes.io
+[openshift]: https://openshift.com
+[vim]: https://vim.org
+[postman]: https://postman.com
+[swagger]: https://swagger.io
+[mysql]: https://mysql.com
+[mongodb]: https://mongodb.com
+[oracle]: https://oracle.com
+[jenkins]: https://jenkins.io
+[ansible]: https://ansible.com
+[arduino]: https://arduino.cc
+[reapberrypi]: https://raspberrypi.org
