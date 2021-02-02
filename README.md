@@ -4,22 +4,26 @@
 
 ## I'm a developer, working with Fault and Performance Management
 
-- Also, I'm from Brazil , living in Switzerland
-- 🔭 I’m currently working on my free time in a [Twitter bot][twitter-bot-repo]
+- 🚂I'm from Brazil, living in Switzerland
+- 🔭 I’m currently working during my free time with Raspberry Pis and Ansible
 - 🧠 I’m currently learning Kubernetes, Openshift... and Deutsch, natürlich!
 - 👯 I’m really enjoying Go as a programming language
-- 🥅 2020 Goals: learn Rust before the year is through
-- :game_die: I love board games, gard games, video games and RPG!
+- 🥅 2021 Goals: learn Rust before the year is through
+- ♟ I love board games, gard games, video games and RPG!
+
+## Badges of honor
+- 🏅[IBM badges][ibm_badges]
 
 ## Currently, my code sessions are fueled with
 [<img src="https://novatorem.otaviokr.vercel.app/api/spotify" alt="otaviokr Spotify Playing" width=350 />](https://open.spotify.com/user/12166119813)
 
 ### Don't be shy, come over and say hi!:
 
-[<img color="#FF0000" align="left" alt="otaviokr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="otaviokr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="otaviokr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="otaviokr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="okrofatto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="otaviorofatto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="otaviokr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="otaviokr | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -70,10 +74,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/otaviokr/topological-sort)](https://badges.pufler.dev)
 
 [twitter-bot-repo]: https://github/com/otaviokr
-[twitter]: https://twitter.com/otaviokr
-[youtube]: https://youtube.com/otaviokr
-[instagram]: https://instagram.com/otaviokr
-[linkedin]: https://linkedin.com/in/otaviokr
+[twitter]: https://twitter.com/okrofatto
+[youtube]: https://www.youtube.com/channel/UCaMqdRlvRRFwmOmzc6TfRSw
+[instagram]: https://www.instagram.com/otaviokr/
+[linkedin]: https://www.linkedin.com/in/otaviorofatto/
+[twitch]: https://www.twitch.tv/otavio_kr
+
+[ibm_badges]: https://www.youracclaim.com/users/otaviokr/badges
 
 [golang]: https://golang.org
 [perl]: https://perl.org
