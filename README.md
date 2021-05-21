@@ -8,8 +8,8 @@
 - 🔭 I’m currently working during my free time with Raspberry Pis and Ansible
 - 🧠 I’m currently learning Kubernetes, Openshift... and Deutsch, natürlich!
 - 👯 I’m really enjoying Go as a programming language
-- 🥅 2021 Goals: learn Rust before the year is through
-- ♟ I love board games, gard games, video games and RPG!
+- 🥅 2021 Goals: it's time to go live!
+- ♟ I love board games, card games, video games and RPG!
 
 ## Badges of honor
 - 🏅[IBM badges][ibm_badges]
@@ -58,7 +58,7 @@
 <br />
 <br />
 
-<p><img align="left" alt="otavokr's Github Stats" src="https://github-readme-stats.otaviokr.vercel.app/api?username=otaviokr&show_icons=true&hide_border=true" /></p>
+<p><img align="left" alt="otavokr's Github Stats" src="https://github-readme-stats.otaviokr.vercel.app/api?username=otaviokr&show_icons=true&theme=react" /></p>
 
 <br/>
 <br/>
