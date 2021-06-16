@@ -12,7 +12,9 @@
 - ♟ I love board games, card games, video games and RPG!
 
 ## Badges of honor
+- 🏅[Red Hat Certified System Administrator][rhcsa_certification]
 - 🏅[IBM badges][ibm_badges]
+- 🏅[Gitlab Certified Associate][gitlab_badge]
 
 ## Currently, my code sessions are fueled with
 [<img src="https://novatorem.otaviokr.vercel.app/api/spotify" alt="otaviokr Spotify Playing" width=350 />](https://open.spotify.com/user/12166119813)
@@ -80,7 +82,9 @@
 [linkedin]: https://www.linkedin.com/in/otaviorofatto/
 [twitch]: https://www.twitch.tv/otavio_kr
 
+[rhcsa_certification]: https://rhtapps.redhat.com/verify?certId=210-025-029
 [ibm_badges]: https://www.youracclaim.com/users/otaviokr/badges
+[gitlab_badge]: https://api.badgr.io/public/assertions/37bX5Qx5TIuhXvc2vLmOhw?identity__email=rofatto%40gmail.com
 
 [golang]: https://golang.org
 [perl]: https://perl.org
